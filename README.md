@@ -1,7 +1,5 @@
 # Find where they live
 
-> working for jordanfish :)
-
 ```
 npm install -g jspm serve divshot
 ```
