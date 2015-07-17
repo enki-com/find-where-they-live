@@ -1,0 +1,29 @@
+{
+  "name": "find-where-they-live",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mathieu Dutour <mathieu@dutour.me> (http://mathieu.dutour.me/)",
+  "license": "ISC",
+  "jspm": {
+    "directories": {},
+    "dependencies": {
+      "density-clustering": "npm:density-clustering@^1.2.0",
+      "react": "npm:react@0.13.3",
+      "react-dom": "npm:react-dom@^0.14.0-beta1",
+      "react-google-maps": "npm:react-google-maps@^1.7.1"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.1.13",
+      "babel-runtime": "npm:babel-runtime@^5.1.13",
+      "core-js": "npm:core-js@^0.9.4"
+    }
+  },
+  "devDependencies": {
+    "html-dist": "^0.1.0",
+    "uglifyjs": "^2.4.10"
+  }
+}
